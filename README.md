@@ -1,2 +1,4 @@
-# demo
-some description!
+-A deep learning model capable of performing accurate lip reading
+-Employed OpenCV for precise video data preprocessing.
+-Utilized Tensorflow to architect a powerful deep learning model,capturing nuanced lip movements.
+-Attained an accuracy rate of 93 percent
