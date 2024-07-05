@@ -1,4 +1,1 @@
--A deep learning model capable of performing accurate lip reading
--Employed OpenCV for precise video data preprocessing.
--Utilized Tensorflow to architect a powerful deep learning model,capturing nuanced lip movements.
--Attained an accuracy rate of 93 percent
+LipVerbalizer aims to construct a deep learning model capable of deciphering speech from visual lip movements alone. By harnessing the power of convolutional and recurrent neural networks, we seek to bridge the communication gap for those with hearing impairments, offering a potential lifeline to a world previously inaccessible to them.
